@@ -19,9 +19,16 @@ output:
 ```{r metathis, echo=FALSE}
 library(metathis)
 meta() %>%
+  meta_general(
+    description = paste(
+      "You R What You Measure: Digital biomarkers for insights in personalized health",
+      "Presented at R/Medicine 2021."
+    ),
+    generator = "xaringan and remark.js"
+  ) %>%
   meta_name("github-repo" = "IreneVDB/RMedicine2021") %>% 
   meta_social(
-    title = "You R What You Measure: Digital biomarkers for insights in personalized health",
+    title = "You R What You Measure",
     url = "https://irenevdb.github.io/RMedicine2021",
     image = "https://irenevdb.github.io/RMedicine2021/YouRWhatYouMeasure_title.png",
     image_alt = paste(
