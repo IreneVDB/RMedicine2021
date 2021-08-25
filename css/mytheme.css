@@ -1,0 +1,103 @@
+.darkpink {color:  #FC1CAC }
+.lightpink {color: #F781D1}
+.base {color: #586CC4}
+.darkpurple {color: #243891}
+
+/*-- Font size --*/
+.small {
+  font-size: 70%;
+}
+.large {
+  font-size: 120%;
+}
+.xlarge {
+  font-size: 21pt;
+  font-weight: 600;
+}
+
+.remark-slide-content h1 {
+  margin-left: -50px;
+  margin-right: -50px;
+  margin-top: -10px;
+  line-height:1.15em;
+}
+
+.remark-slide-content h2 {
+  margin-left: -25px;
+  margin-right: -25px;
+  margin-top: 5px;
+  line-height:1.15em;
+}
+
+.remark-slide-number {
+  color: #ffffff;
+  bottom: 5px;                 
+}
+
+.inverse h1{margin-right: auto;
+            font-size: 54pt;
+}
+
+div.my-footer {
+    background-color: #586CC4;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: 30px;
+    width: 100%;
+}
+div.my-footer span {
+    font-size: 12pt;
+    color: #FFFFFF;
+    position: absolute;
+    left: 0px;
+    bottom: 5px;
+}
+
+.right-column{
+  padding-top: 0;
+}
+
+/*-- 3 column layout --*/
+.left-col {
+  width: 29%;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  float: left;
+}
+
+.center-col {
+  width: 29%;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  float: left;
+}
+
+.right-col {
+  width: 29%;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  float: left;
+}
+
+.pull-left-small {
+  float: left;
+  width: 20%;
+}
+.pull-right-small {
+  float: right;
+  width: 75%;
+}
+
+.center2 {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
