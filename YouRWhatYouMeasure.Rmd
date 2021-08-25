@@ -115,7 +115,7 @@ class: top
 
 ## You are what you measure: My Quantified Self Project
 <br>
-.pull-left[.center[<img src="img/logo_8factors.png" width="90%">]]
+.pull-left[.center[<img src="img/Logo_8factors.png" width="90%">]]
 
 .pull-right[.center[Collecting data about my .darkpink.large[Health] and .darkpink.large[Habits] using apps, sensors and wearable devices]]
 
@@ -124,11 +124,11 @@ name: apps
 
 ## Wearables and apps for tracking .darkpurple[Health] and .darkpurple[Habits]
 
-.left-col[<img src="img/devices/oura.png" width = "35%" style="padding:10px"> Oura Ring
+.left-col[<img src="img/devices/Oura.png", width = "35%", style="padding:10px"> Oura Ring
 <br><br>
 <img src="img/apps/RescueTime.png", width = "35%", style="padding:10px; border-radius:30%"> RescueTime
 <br><br>
-<img src="img/apps/strava.png", width = "35%", style="padding:10px; border-radius:25%"> Strava]
+<img src="img/apps/Strava.png", width = "35%", style="padding:10px; border-radius:25%"> Strava]
 
 .center-col[<img src="img/apps/HRV4Training.png", width = "35%", style="padding:10px"> HRV4Training
 <br><br>
